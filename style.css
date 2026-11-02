@@ -128,3 +128,18 @@ footer a {
    
     font-size: 10px;
 }
+.ins {
+    color: rgb(229, 9, 83);
+}
+.whs {
+    color: green;
+}
+.ds {
+    color: rgb(80, 101, 216);
+}
+.yt {
+    color: red;
+}
+.gl {
+    color: rgb(14, 166, 242);
+}
